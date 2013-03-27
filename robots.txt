@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: http://ybalup.github.com/sitemap.xml
